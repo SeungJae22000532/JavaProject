@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f0a669f-0f96-4697-8b60-b55533e23569" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_CRUD_Project1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CRUD/ICRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CRUD/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CRUD/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CRUD/WordCRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CRUD/WordManager.java" afterDir="false" />
+    <list default="true" id="6f0a669f-0f96-4697-8b60-b55533e23569" name="Changes" comment="Create Java CRUD">
+      <change beforePath="$PROJECT_DIR$/src/CRUD/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CRUD/Word.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +51,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662556878172</updated>
-      <workItem from="1662556879458" duration="2818000" />
+      <workItem from="1662556879458" duration="2895000" />
     </task>
+    <task id="LOCAL-00001" summary="Create Java CRUD">
+      <created>1662559745695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662559745695</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,5 +76,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create Java CRUD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Java CRUD" />
   </component>
 </project>
