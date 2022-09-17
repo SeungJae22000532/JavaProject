@@ -51,6 +51,9 @@ public class WordManager {
             else if(menu == 7) { // save data
                 wordCRUD.saveFile();
             }
+            else if(menu == 2) {
+                wordCRUD.searchLevel();
+            }
         }
     }
 }
