@@ -24,6 +24,8 @@
 ### 파일 저장
 <img alt="example of result 13" src="screenshot/10.png">
 <img alt="example of result 14" src="screenshot/11.png">
+### 파일 불러오기
+<img alt="example of result 15" src="screenshot/12.png">
 
 프로젝트 소감
 1. 확실히 오랜만에 자바를 구현하니 어려움이 많았다.
