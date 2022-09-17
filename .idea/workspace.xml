@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f0a669f-0f96-4697-8b60-b55533e23569" name="Changes" comment="modify the delete function">
-      <change afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
+    <list default="true" id="6f0a669f-0f96-4697-8b60-b55533e23569" name="Changes" comment="add the load file function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CRUD/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CRUD/Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CRUD/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CRUD/WordCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CRUD/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CRUD/WordManager.java" afterDir="false" />
     </list>
@@ -57,7 +57,7 @@
       <workItem from="1662556879458" duration="3117000" />
       <workItem from="1662560033401" duration="527000" />
       <workItem from="1663053156359" duration="2193000" />
-      <workItem from="1663419342005" duration="3499000" />
+      <workItem from="1663419342005" duration="3882000" />
     </task>
     <task id="LOCAL-00001" summary="Create Java CRUD">
       <created>1662559745695</created>
@@ -136,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663439600234</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add the load file function">
+      <created>1663440503949</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1663440503949</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +172,7 @@
     <MESSAGE value="modify the add function name from addWord to addItem" />
     <MESSAGE value="add the delete function" />
     <MESSAGE value="modify the delete function" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify the delete function" />
+    <MESSAGE value="add the load file function" />
+    <option name="LAST_COMMIT_MESSAGE" value="add the load file function" />
   </component>
 </project>
