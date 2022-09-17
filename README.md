@@ -13,6 +13,17 @@
 <img alt="example of result 5" src="screenshot/2.png">
 <img alt="example of result 6" src="screenshot/3.png">
 <img alt="example of result 7" src="screenshot/4.png">
+## 단어 검색
+<img alt="example of result 8" src="screenshot/5.png">
+## 단어 수정
+<img alt="example of result 9" src="screenshot/6.png">
+<img alt="example of result 10" src="screenshot/7.png">
+## 단어 삭제
+<img alt="example of result 11" src="screenshot/8.png">
+<img alt="example of result 12" src="screenshot/9.png">
+## 파일 저장
+<img alt="example of result 13" src="screenshot/10.png">
+<img alt="example of result 14" src="screenshot/7.png">
 
 프로젝트 소감
 1. 확실히 오랜만에 자바를 구현하니 어려움이 많았다.
