@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f0a669f-0f96-4697-8b60-b55533e23569" name="Changes" comment="add the update function">
+    <list default="true" id="6f0a669f-0f96-4697-8b60-b55533e23569" name="Changes" comment="modify the update function">
       <change beforePath="$PROJECT_DIR$/src/CRUD/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CRUD/WordCRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CRUD/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CRUD/WordManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <workItem from="1662556879458" duration="3117000" />
       <workItem from="1662560033401" duration="527000" />
       <workItem from="1663053156359" duration="2193000" />
-      <workItem from="1663419342005" duration="2185000" />
+      <workItem from="1663419342005" duration="2286000" />
     </task>
     <task id="LOCAL-00001" summary="Create Java CRUD">
       <created>1662559745695</created>
@@ -105,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663439126670</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="modify the update function">
+      <created>1663439167642</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663439167642</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +138,7 @@
     <MESSAGE value="Add exit program sentence" />
     <MESSAGE value="add getter and setter of meaning in Word" />
     <MESSAGE value="add the update function" />
-    <option name="LAST_COMMIT_MESSAGE" value="add the update function" />
+    <MESSAGE value="modify the update function" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify the update function" />
   </component>
 </project>
