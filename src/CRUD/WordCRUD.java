@@ -1,5 +1,6 @@
 package CRUD;
 
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -32,6 +33,7 @@ public class WordCRUD implements ICRUD{
 
     @Override
     public int update(Object obj) {
+        System.out.print("=> 수정할 단어 검색: ");
         return 0;
     }
 

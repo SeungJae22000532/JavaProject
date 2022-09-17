@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f0a669f-0f96-4697-8b60-b55533e23569" name="Changes" comment="Apply listAll function">
+    <list default="true" id="6f0a669f-0f96-4697-8b60-b55533e23569" name="Changes" comment="Add exit program sentence">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CRUD/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CRUD/Word.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CRUD/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CRUD/WordCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CRUD/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CRUD/WordManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,17 +35,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +54,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662556878172</updated>
-      <workItem from="1662556879458" duration="3091000" />
+      <workItem from="1662556879458" duration="3117000" />
+      <workItem from="1662560033401" duration="527000" />
+      <workItem from="1663053156359" duration="2193000" />
+      <workItem from="1663419342005" duration="1893000" />
     </task>
     <task id="LOCAL-00001" summary="Create Java CRUD">
       <created>1662559745695</created>
@@ -82,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662559889162</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add exit program sentence">
+      <created>1662560000005</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662560000005</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +116,7 @@
     <MESSAGE value="Override toString method" />
     <MESSAGE value="Create listAll function" />
     <MESSAGE value="Apply listAll function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Apply listAll function" />
+    <MESSAGE value="Add exit program sentence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add exit program sentence" />
   </component>
 </project>

@@ -38,6 +38,14 @@ public class Word {
         this.word = word;
     }
 
+    public String getMeaning() {
+        return meaning;
+    }
+
+    public void setMeaning(String meaning) {
+        this.meaning = meaning;
+    }
+
     @Override
     public String toString() {
         String slevel = "";
